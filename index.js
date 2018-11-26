@@ -33,5 +33,5 @@ return string.toUpperCase()
 function sayHiToGrandma(string)
 {	
 console.log('I love you, Grandma.')
-return string.mixedCase()
+return string.toEqual;('I love you, Grandma.');
 }
