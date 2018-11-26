@@ -32,6 +32,6 @@ return 'YES INDEED!';
 
 function sayHiToGrandma(string)
 {	
-console.log();
+if (string.mixedCase() === string)
 return string;
 }
