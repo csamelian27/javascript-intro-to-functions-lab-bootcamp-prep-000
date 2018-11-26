@@ -20,8 +20,7 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
-console.log('I can\’t hear you!');
-return string.toLowerCase();
+return I can\’t hear you!;
 }
 
 function sayHiToGrandma(string)
